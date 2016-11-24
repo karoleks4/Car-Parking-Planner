@@ -1,5 +1,5 @@
 # Car-Parking-Planner
-Formalising a planning problem, using Situation Calculus to represent the world (restaurant car park) in Golog.
+Implementation and testing a model of restaurant car park in Golog (Situation Calculus and Planning).
 
 This assignment considers the Situation Calculus and Planning. It focuses on: 
 - Formalizing a planning problem, using Situation Calculus to represent the world. 
